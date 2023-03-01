@@ -8,13 +8,13 @@ const Home: NextPage = () => {
         <nav>
           <ul className="flex gap-2">
             <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-              NavItem
+              File
             </li>
             <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-              NavItem
+              View
             </li>
             <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-              NavItem
+              Help
             </li>
           </ul>
         </nav>
@@ -24,35 +24,35 @@ const Home: NextPage = () => {
         <aside className="border">
           <nav>
             <ul>
-              <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+              <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer ">
+                Projeler
               </li>
               <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+                Binalar
               </li>
               <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+                Bina Güncelleme(Excel)
               </li>
               <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+                Firmalar
               </li>
               <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+                Parsel
               </li>
               <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+                Arsalar
               </li>
               <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+                Arsa Imar Durumu
               </li>
               <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+                Kataloglar
               </li>
               <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+                E-Projeler
               </li>
               <li className="px-4 py-2 hover:bg-slate-200 cursor-pointer">
-                NavItem
+                E-Binalar
               </li>
             </ul>
           </nav>

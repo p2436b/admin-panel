@@ -6,16 +6,16 @@ const Table: React.FC = () => {
     { c1: "1", c2: "2", c3: "3", c4: "4" },
     { c1: "1", c2: "2", c3: "3", c4: "4" },
     { c1: "1", c2: "2", c3: "3", c4: "4" },
-    { c1: "mina", c2: "2", c3: "3", c4: "4" },
+    { c1: "mina", c2: "2", c3: "maryam", c4: "4" },
   ];
   return (
     <table className="border-2 w-full h-full text-center">
       <thead>
         <tr>
-          <th>A</th>
-          <th>B</th>
+          <th>Projeler</th>
+          {/* <th>B</th>
           <th>C</th>
-          <th>D</th>
+          <th>D</th> */}
         </tr>
       </thead>
       <tbody>
